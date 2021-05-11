@@ -1,6 +1,10 @@
 # SmartWatchV2_MSP430
 MSP430 Based Simple SmartWatch
 
+For more projects and videos :
+
+https://www.youtube.com/alpelectronics
+
 You can use for educational purposes!
 
 ![3D_TOP](https://user-images.githubusercontent.com/10106458/114217128-0e454000-9968-11eb-9c6e-c02386cc88ba.png)
